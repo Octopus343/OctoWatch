@@ -1,0 +1,2 @@
+2.450V - backlight stops working
+4.15V - full charge
