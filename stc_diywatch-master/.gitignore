@@ -1,0 +1,7 @@
+*.hex
+*.ihx
+*.bin
+build/*
+notes/*
+src/*.backup*
+config
