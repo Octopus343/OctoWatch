@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1155,26 +1155,26 @@ This is the "KIT" version, which has limited top masking for improved ease of as
 </package>
 <package name="STC15F204AE">
 <description>15L204EA (Dual Inline Package DIP-20)</description>
-<pad name="P$1" x="-35.56" y="7.62" drill="0.6" shape="square"/>
-<pad name="P$2" x="-35.56" y="5.08" drill="0.6"/>
-<pad name="P$3" x="-35.56" y="2.54" drill="0.6"/>
-<pad name="P$4" x="-35.56" y="0" drill="0.6"/>
-<pad name="P$5" x="-35.56" y="-2.54" drill="0.6"/>
-<pad name="P$6" x="-35.56" y="-5.08" drill="0.6"/>
-<pad name="P$7" x="-35.56" y="-7.62" drill="0.6"/>
-<pad name="P$8" x="-35.56" y="-10.16" drill="0.6"/>
-<pad name="P$9" x="-35.56" y="-12.7" drill="0.6"/>
-<pad name="P$10" x="-35.56" y="-15.24" drill="0.6"/>
-<pad name="P$11" x="-27.94" y="7.62" drill="0.6"/>
-<pad name="P$12" x="-27.94" y="5.08" drill="0.6"/>
-<pad name="P$13" x="-27.94" y="2.54" drill="0.6"/>
-<pad name="P$14" x="-27.94" y="0" drill="0.6"/>
-<pad name="P$15" x="-27.94" y="-2.54" drill="0.6"/>
-<pad name="P$16" x="-27.94" y="-5.08" drill="0.6"/>
-<pad name="P$17" x="-27.94" y="-7.62" drill="0.6"/>
-<pad name="P$18" x="-27.94" y="-10.16" drill="0.6"/>
-<pad name="P$19" x="-27.94" y="-12.7" drill="0.6"/>
-<pad name="P$20" x="-27.94" y="-15.24" drill="0.6"/>
+<pad name="P$1" x="-35.56" y="7.62" drill="0.762" shape="square"/>
+<pad name="P$2" x="-35.56" y="5.08" drill="0.762"/>
+<pad name="P$3" x="-35.56" y="2.54" drill="0.762"/>
+<pad name="P$4" x="-35.56" y="0" drill="0.762"/>
+<pad name="P$5" x="-35.56" y="-2.54" drill="0.762"/>
+<pad name="P$6" x="-35.56" y="-5.08" drill="0.762"/>
+<pad name="P$7" x="-35.56" y="-7.62" drill="0.762"/>
+<pad name="P$8" x="-35.56" y="-10.16" drill="0.762"/>
+<pad name="P$9" x="-35.56" y="-12.7" drill="0.762"/>
+<pad name="P$10" x="-35.56" y="-15.24" drill="0.762"/>
+<pad name="P$11" x="-27.94" y="7.62" drill="0.762"/>
+<pad name="P$12" x="-27.94" y="5.08" drill="0.762"/>
+<pad name="P$13" x="-27.94" y="2.54" drill="0.762"/>
+<pad name="P$14" x="-27.94" y="0" drill="0.762"/>
+<pad name="P$15" x="-27.94" y="-2.54" drill="0.762"/>
+<pad name="P$16" x="-27.94" y="-5.08" drill="0.762"/>
+<pad name="P$17" x="-27.94" y="-7.62" drill="0.762"/>
+<pad name="P$18" x="-27.94" y="-10.16" drill="0.762"/>
+<pad name="P$19" x="-27.94" y="-12.7" drill="0.762"/>
+<pad name="P$20" x="-27.94" y="-15.24" drill="0.762"/>
 <text x="-30.48" y="-7.62" size="1.27" layer="21" rot="R90">&gt;15L204EA</text>
 <text x="-35.56" y="6.35" size="1.27" layer="25">&gt;NAME</text>
 <text x="-35.56" y="-15.24" size="1.27" layer="27">&gt;VALUE</text>
