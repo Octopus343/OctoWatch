@@ -1,0 +1,17 @@
+Component List:
+X2 22pf capacitor  0402 Ordered 100pics : $7.62 /// 1 = 0.076
+X1 32.768kHz crystal Ordered 100pics : $5.49 /// 1 = 0.055
+X1 0.1uf capacitor 0402 Ordered 200pics : $4.36 /// 1 = 0.022 
+X2 10kOhm resistor 0603 Ordered 100pics : $5.44 /// 1 = 
+X2 side buttons
+X2 1kOhm (102) resistor 0402 Ordered 100pics : $8.44 /// 1 = 
+X2 10uf capacitor 0805 Ordered 100pics : $4.90 /// 1 = 0.049
+X2 led (blue&red) 0603 Ordered 100pics(each) : $2.20 + $2.20 /// 0.022 + 0.022
+X1 104 resistor 1206 (0805 ordered) Ordered 200pics : $3.24 ///
+X1 122 resistor 0402 Ordered 100pics : $5.43 ///
+X1 TP4956 Ordered 50pics : $10 /// 1 = 0.25
+X1 CONN RCPT MICRO USB AB 5P SMD RA Ordered 20pics: $15.61 /// 1 = 0.78
+X1 DS1302 Ticker Ordered 50pics : $8.75 /// 1 = 0.175
+X1 15L204EA Orderd 20pics : $34.47 /// 1 = 1.72
+X1 2481BS anode LED Ordered 20pics : $13.04 /// 1 = 0.65
+X1 Battery 3.7V 370mAh 502530 Ordered 20pics : $21.75 /// 1 = 1.087
