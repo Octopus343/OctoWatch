@@ -1949,7 +1949,7 @@ design rules under a new name.</description>
 <attribute name="DIGIKEY_PARTNO" value="WM17144TR-ND" x="23.78" y="-20.75" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="MANUFACTURER" value="Molex" x="23.78" y="-20.75" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="MPN" value="0475900001" x="23.78" y="-20.75" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="52.3985" y="26.72956875" size="1.2727" layer="26" rot="MR0"/>
+<attribute name="NAME" x="50.1485" y="25.47956875" size="1.2727" layer="26" rot="MR0"/>
 <attribute name="VALUE" x="50.52135" y="20.19616875" size="1.27265" layer="28" rot="MR0"/>
 </element>
 <element name="LED3" library="adafruit" package="CHIPLED_0603" value="" x="57.39" y="31.35" smashed="yes" rot="R90">

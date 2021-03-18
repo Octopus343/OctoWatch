@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -2001,8 +2001,8 @@ design rules under a new name.</description>
 </element>
 <element name="U$1" library="OctoWatch" package="LED_SEGMENT" value="" x="48" y="48.03" smashed="yes" rot="R90">
 <attribute name="NAME" x="41.9" y="39.58" size="1.27" layer="25" rot="R90"/>
-<attribute name="NAME" x="41.9" y="39.58" size="1.27" layer="25" rot="R90"/>
 <attribute name="NAME" x="41.9" y="39.58" size="1.27" layer="21" rot="R90"/>
+<attribute name="NAME" x="41.9" y="39.58" size="1.27" layer="25" rot="R90"/>
 <attribute name="VALUE" x="53.08" y="35.33" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="U$2" library="OctoWatch" package="STC15F204AE" value="" x="47.7" y="80.85" smashed="yes" rot="R90">

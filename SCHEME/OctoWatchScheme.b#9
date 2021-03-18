@@ -1956,13 +1956,13 @@ design rules under a new name.</description>
 <attribute name="NAME" x="21.594" y="59.431" size="1.27" layer="25" ratio="10" rot="R270"/>
 <attribute name="VALUE" x="19.816" y="57.145" size="1.27" layer="27" ratio="10" rot="R180"/>
 </element>
-<element name="J1" library="USB connector" library_urn="urn:adsk.eagle:library:19787754" package="0475900001" package3d_urn="urn:adsk.eagle:package:19610270/9" value="0475900001" x="-38.1" y="46.99" smashed="yes">
-<attribute name="CREATED_BY" value="PCBLayout.com" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="DIGIKEY_PARTNO" value="WM17144TR-ND" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MANUFACTURER" value="Molex" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="0475900001" x="0" y="0" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-42.1085" y="51.49956875" size="1.2727" layer="25"/>
-<attribute name="VALUE" x="-41.98135" y="42.21616875" size="1.27265" layer="27"/>
+<element name="J1" library="USB connector" library_urn="urn:adsk.eagle:library:19787754" package="0475900001" package3d_urn="urn:adsk.eagle:package:19610270/9" value="0475900001" x="28.4" y="31.99" smashed="yes">
+<attribute name="CREATED_BY" value="PCBLayout.com" x="66.5" y="-15" size="1.778" layer="27" display="off"/>
+<attribute name="DIGIKEY_PARTNO" value="WM17144TR-ND" x="66.5" y="-15" size="1.778" layer="27" display="off"/>
+<attribute name="MANUFACTURER" value="Molex" x="66.5" y="-15" size="1.778" layer="27" display="off"/>
+<attribute name="MPN" value="0475900001" x="66.5" y="-15" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="24.3915" y="36.49956875" size="1.2727" layer="25"/>
+<attribute name="VALUE" x="24.51865" y="27.21616875" size="1.27265" layer="27"/>
 </element>
 <element name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" package="PLCC2" package3d_urn="urn:adsk.eagle:package:15861/1" value="LG_T679-E1F1-1" x="-54.61" y="3.81" smashed="yes">
 <attribute name="COLOR" value="green" x="0" y="0" size="1.778" layer="27" display="off"/>
@@ -2058,12 +2058,12 @@ design rules under a new name.</description>
 <contactref element="U$3" pad="P$2"/>
 <wire x1="44.63" y1="35.71" x2="22.27" y2="60.53" width="0" layer="19" extent="1-1"/>
 <wire x1="12.45" y1="60.32" x2="44.63" y2="35.71" width="0" layer="19" extent="1-1"/>
-<wire x1="-42.275" y1="46.99" x2="12.45" y2="60.32" width="0" layer="19" extent="1-1"/>
-<wire x1="-40.325" y1="49.99" x2="-42.275" y2="46.99" width="0" layer="19" extent="1-1"/>
-<wire x1="-38.1" y1="46.99" x2="-40.325" y2="49.99" width="0" layer="19" extent="1-1"/>
-<wire x1="-35.875" y1="49.99" x2="-38.1" y2="46.99" width="0" layer="19" extent="1-1"/>
-<wire x1="-33.925" y1="46.99" x2="-35.875" y2="49.99" width="0" layer="19" extent="1-1"/>
-<wire x1="-41.14" y1="57.15" x2="-40.325" y2="49.99" width="0" layer="19" extent="1-1"/>
+<wire x1="24.225" y1="31.99" x2="12.45" y2="60.32" width="0" layer="19" extent="1-1"/>
+<wire x1="26.175" y1="34.99" x2="24.225" y2="31.99" width="0" layer="19" extent="1-1"/>
+<wire x1="28.4" y1="31.99" x2="26.175" y2="34.99" width="0" layer="19" extent="1-1"/>
+<wire x1="30.625" y1="34.99" x2="28.4" y2="31.99" width="0" layer="19" extent="1-1"/>
+<wire x1="32.575" y1="31.99" x2="30.625" y2="34.99" width="0" layer="19" extent="1-1"/>
+<wire x1="-41.14" y1="57.15" x2="26.175" y2="34.99" width="0" layer="19" extent="1-1"/>
 <wire x1="-34.61" y1="57.15" x2="-41.14" y2="57.15" width="0" layer="19" extent="1-1"/>
 <wire x1="-29.53" y1="57.15" x2="-34.61" y2="57.15" width="0" layer="19" extent="1-1"/>
 <wire x1="-25.552" y1="57.15" x2="-29.53" y2="57.15" width="0" layer="19" extent="1-1"/>
@@ -2260,7 +2260,7 @@ design rules under a new name.</description>
 <wire x1="-22.708" y1="57.15" x2="-19.26" y2="55.245" width="0" layer="19" extent="1-1"/>
 <wire x1="-13.76" y1="59.055" x2="-19.26" y2="55.245" width="0" layer="19" extent="1-1"/>
 <wire x1="-31.43" y1="57.15" x2="-22.708" y2="57.15" width="0" layer="19" extent="1-1"/>
-<wire x1="-36.8" y1="49.665" x2="-31.43" y2="57.15" width="0" layer="19" extent="1-1"/>
+<wire x1="29.7" y1="34.665" x2="-31.43" y2="57.15" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$30">
 <contactref element="U$3" pad="P$1"/>
