@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,19 +39,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="6" fill="9" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -923,8 +923,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="0" y1="5.334" x2="0.508" y2="5.334" width="0.1524" layer="21"/>
 <wire x1="1.016" y1="2.032" x2="0.889" y2="2.032" width="0.1524" layer="21"/>
 <wire x1="0.889" y1="2.032" x2="-0.889" y2="2.032" width="0.1524" layer="21"/>
-<pad name="1" x="-1.27" y="0" drill="0.8128" diameter="1.6764"/>
-<pad name="2" x="1.27" y="0" drill="0.8128" diameter="1.6764"/>
+<pad name="1" x="-1.27" y="0" drill="0.6" diameter="1.27"/>
+<pad name="2" x="1.27" y="0" drill="0.6" diameter="1.27"/>
 <rectangle x1="0.3048" y1="1.016" x2="0.7112" y2="1.6002" layer="21"/>
 <rectangle x1="-0.7112" y1="1.016" x2="-0.3048" y2="1.6002" layer="21"/>
 <rectangle x1="-1.778" y1="0.762" x2="1.778" y2="8.382" layer="43"/>
@@ -1143,53 +1143,93 @@ This is the "KIT" version, which has limited top masking for improved ease of as
 <pad name="P$10" x="-5.08" y="0" drill="0.6"/>
 <pad name="P$11" x="-5.08" y="-2.54" drill="0.6"/>
 <pad name="P$12" x="-5.08" y="-5.08" drill="0.6"/>
-<text x="-12.7" y="6.35" size="1.27" layer="21">&gt;NAME</text>
-<text x="-12.7" y="6.35" size="1.27" layer="25">&gt;NAME</text>
-<text x="-12.7" y="6.35" size="1.27" layer="25">&gt;NAME</text>
+<text x="-11.43" y="6.28" size="1.27" layer="21">&gt;NAME</text>
+<text x="-11.43" y="6.28" size="1.27" layer="25">&gt;NAME</text>
+<text x="-11.43" y="6.28" size="1.27" layer="25">&gt;NAME</text>
 <text x="-12.7" y="-5.08" size="1.27" layer="27">&gt;VALUE</text>
-<text x="-8.89" y="-1.27" size="1.27" layer="21" rot="R90">7LED</text>
+<text x="-8.29" y="-1.87" size="1.27" layer="21" rot="R90">2418BS</text>
 <wire x1="-12.7" y1="7.62" x2="-12.7" y2="-5.08" width="0.127" layer="21"/>
 <wire x1="-12.7" y1="-5.08" x2="-5.08" y2="-5.08" width="0.127" layer="21"/>
 <wire x1="-5.08" y1="-5.08" x2="-5.08" y2="7.62" width="0.127" layer="21"/>
 <wire x1="-5.08" y1="7.62" x2="-12.7" y2="7.62" width="0.127" layer="21"/>
+<circle x="-11.8" y="7" radius="0.282840625" width="0.1524" layer="21"/>
 </package>
 <package name="STC15F204AE">
 <description>15L204EA (Dual Inline Package DIP-20)</description>
-<pad name="P$1" x="-35.56" y="7.62" drill="0.762" shape="square"/>
-<pad name="P$2" x="-35.56" y="5.08" drill="0.762"/>
-<pad name="P$3" x="-35.56" y="2.54" drill="0.762"/>
-<pad name="P$4" x="-35.56" y="0" drill="0.762"/>
-<pad name="P$5" x="-35.56" y="-2.54" drill="0.762"/>
-<pad name="P$6" x="-35.56" y="-5.08" drill="0.762"/>
-<pad name="P$7" x="-35.56" y="-7.62" drill="0.762"/>
-<pad name="P$8" x="-35.56" y="-10.16" drill="0.762"/>
-<pad name="P$9" x="-35.56" y="-12.7" drill="0.762"/>
-<pad name="P$10" x="-35.56" y="-15.24" drill="0.762"/>
-<pad name="P$11" x="-27.94" y="7.62" drill="0.762"/>
-<pad name="P$12" x="-27.94" y="5.08" drill="0.762"/>
-<pad name="P$13" x="-27.94" y="2.54" drill="0.762"/>
-<pad name="P$14" x="-27.94" y="0" drill="0.762"/>
-<pad name="P$15" x="-27.94" y="-2.54" drill="0.762"/>
-<pad name="P$16" x="-27.94" y="-5.08" drill="0.762"/>
-<pad name="P$17" x="-27.94" y="-7.62" drill="0.762"/>
-<pad name="P$18" x="-27.94" y="-10.16" drill="0.762"/>
-<pad name="P$19" x="-27.94" y="-12.7" drill="0.762"/>
-<pad name="P$20" x="-27.94" y="-15.24" drill="0.762"/>
-<text x="-30.48" y="-7.62" size="1.27" layer="21" rot="R90">&gt;15L204EA</text>
-<text x="-35.56" y="6.35" size="1.27" layer="25">&gt;NAME</text>
-<text x="-35.56" y="-15.24" size="1.27" layer="27">&gt;VALUE</text>
-<wire x1="-35.56" y1="-15.24" x2="-27.94" y2="-15.24" width="0.127" layer="21"/>
-<wire x1="-27.94" y1="-15.24" x2="-27.94" y2="7.62" width="0.127" layer="21"/>
-<wire x1="-27.94" y1="7.62" x2="-35.56" y2="7.62" width="0.127" layer="21"/>
-<wire x1="-35.56" y1="7.62" x2="-35.56" y2="-15.24" width="0.127" layer="21"/>
+<pad name="P$1" x="-40.64" y="6.35" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$2" x="-40.64" y="5.08" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$3" x="-40.64" y="3.81" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$4" x="-40.64" y="2.54" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$5" x="-40.64" y="1.27" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$6" x="-40.64" y="0" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$7" x="-40.64" y="-1.27" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$8" x="-40.64" y="-2.54" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$9" x="-40.64" y="-3.81" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$10" x="-40.64" y="-5.08" drill="0.5" diameter="0.8128" shape="offset"/>
+<pad name="P$20" x="-30.48" y="6.35" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<pad name="P$19" x="-30.48" y="5.08" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<pad name="P$18" x="-30.48" y="3.81" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<pad name="P$17" x="-30.48" y="2.54" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<pad name="P$16" x="-30.48" y="1.27" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<pad name="P$15" x="-30.48" y="0" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<pad name="P$14" x="-30.48" y="-1.27" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<pad name="P$13" x="-30.48" y="-2.54" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<pad name="P$12" x="-30.48" y="-3.81" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<pad name="P$11" x="-30.48" y="-5.08" drill="0.5" diameter="0.8128" shape="offset" rot="R180"/>
+<text x="-33.02" y="-3.81" size="1.27" layer="21" rot="R90">&gt;15L204EA</text>
+<text x="-38.23" y="6.15" size="1.27" layer="25">&gt;NAME</text>
+<text x="-38.77" y="-6.15" size="1.27" layer="27">&gt;VALUE</text>
+<wire x1="-39.37" y1="7.62" x2="-39.37" y2="-6.35" width="0.1524" layer="21"/>
+<wire x1="-39.37" y1="-6.35" x2="-31.75" y2="-6.35" width="0.1524" layer="21"/>
+<wire x1="-31.75" y1="-6.35" x2="-31.75" y2="7.62" width="0.1524" layer="21"/>
+<wire x1="-31.75" y1="7.62" x2="-39.37" y2="7.62" width="0.1524" layer="21"/>
+<circle x="-38.8" y="6.4" radius="0.282840625" width="0.1524" layer="21"/>
 </package>
 <package name="BUTTON">
-<pad name="P$1" x="-9" y="4.5" drill="0.6"/>
-<pad name="P$2" x="-9" y="0" drill="0.6"/>
-<pad name="P$3" x="-11.5" y="-1" drill="0.6"/>
-<pad name="P$4" x="-11.5" y="5.5" drill="0.6"/>
+<pad name="P$1" x="-9" y="4.5" drill="0.65"/>
+<pad name="P$2" x="-9" y="0" drill="0.65"/>
+<pad name="P$3" x="-11.5" y="-1" drill="1"/>
+<pad name="P$4" x="-11.5" y="5.5" drill="1"/>
 <text x="-12.7" y="6.35" size="1.27" layer="25">&gt;NAME</text>
 <text x="-12.7" y="-3.81" size="1.27" layer="27">&gt;VALUE</text>
+<wire x1="-9" y1="0" x2="-11.5" y2="0" width="0.1524" layer="21"/>
+<wire x1="-11.5" y1="0" x2="-11.5" y2="4.5" width="0.1524" layer="21"/>
+<wire x1="-11.5" y1="4.5" x2="-9" y2="4.5" width="0.1524" layer="21"/>
+<wire x1="-9" y1="4.5" x2="-9" y2="3" width="0.1524" layer="21"/>
+<wire x1="-9" y1="0" x2="-9" y2="1.5" width="0.1524" layer="21"/>
+<wire x1="-9" y1="1.5" x2="-9" y2="3" width="0.1524" layer="21"/>
+<wire x1="-9" y1="3" x2="-8.5" y2="3" width="0.1524" layer="21"/>
+<wire x1="-8.5" y1="3" x2="-8.5" y2="1.5" width="0.1524" layer="21"/>
+<wire x1="-8.5" y1="1.5" x2="-9" y2="1.5" width="0.1524" layer="21"/>
+</package>
+<package name="STC15F204AE2">
+<description>15L204EA (Dual Inline Package DIP-20)</description>
+<wire x1="-12.7" y1="10.16" x2="-5.08" y2="10.16" width="0.127" layer="21"/>
+<wire x1="-12.7" y1="-12.7" x2="-5.08" y2="-12.7" width="0.127" layer="21"/>
+<pad name="P$1" x="-12.7" y="10.16" drill="0.75" shape="square"/>
+<pad name="P$2" x="-12.7" y="7.62" drill="0.7"/>
+<pad name="P$3" x="-12.7" y="5.08" drill="0.7"/>
+<pad name="P$4" x="-12.7" y="2.54" drill="0.7"/>
+<pad name="P$5" x="-12.7" y="0" drill="0.7"/>
+<pad name="P$6" x="-12.7" y="-2.54" drill="0.7"/>
+<pad name="P$7" x="-12.7" y="-5.08" drill="0.7"/>
+<pad name="P$8" x="-12.7" y="-7.62" drill="0.7"/>
+<pad name="P$9" x="-12.7" y="-10.16" drill="0.7"/>
+<pad name="P$10" x="-12.7" y="-12.7" drill="0.7"/>
+<pad name="P$11" x="-5.08" y="-12.7" drill="0.7"/>
+<pad name="P$12" x="-5.08" y="-10.16" drill="0.7"/>
+<pad name="P$13" x="-5.08" y="-7.62" drill="0.7"/>
+<pad name="P$14" x="-5.08" y="-5.08" drill="0.7"/>
+<pad name="P$15" x="-5.08" y="-2.54" drill="0.7"/>
+<pad name="P$16" x="-5.08" y="0" drill="0.7"/>
+<pad name="P$17" x="-5.08" y="2.54" drill="0.7"/>
+<pad name="P$18" x="-5.08" y="5.08" drill="0.7"/>
+<pad name="P$19" x="-5.08" y="7.62" drill="0.7"/>
+<pad name="P$20" x="-5.08" y="10.16" drill="0.7"/>
+<text x="-11.43" y="8.89" size="1.27" layer="25" rot="SR270">STC15L204AE</text>
+<text x="-7.62" y="-5.08" size="1.27" layer="25" rot="SR270">&gt;VALUE</text>
+<wire x1="-12.7" y1="10.16" x2="-12.7" y2="-12.7" width="0.1524" layer="21"/>
+<wire x1="-5.08" y1="10.16" x2="-5.08" y2="-12.7" width="0.1524" layer="21"/>
 </package>
 </packages>
 <symbols>
@@ -1290,6 +1330,33 @@ This is the "KIT" version, which has limited top masking for improved ease of as
 </gates>
 <devices>
 <device name="" package="STC15F204AE">
+<connects>
+<connect gate="G$1" pin="ADC0" pad="P$20"/>
+<connect gate="G$1" pin="ADC1" pad="P$19"/>
+<connect gate="G$1" pin="ADC2" pad="P$1"/>
+<connect gate="G$1" pin="ADC3" pad="P$2"/>
+<connect gate="G$1" pin="ADC4" pad="P$3"/>
+<connect gate="G$1" pin="ADC5" pad="P$4"/>
+<connect gate="G$1" pin="ADC6" pad="P$5"/>
+<connect gate="G$1" pin="ADC7" pad="P$6"/>
+<connect gate="G$1" pin="GND" pad="P$10"/>
+<connect gate="G$1" pin="INT0" pad="P$13"/>
+<connect gate="G$1" pin="INT1" pad="P$14"/>
+<connect gate="G$1" pin="INT2" pad="P$17"/>
+<connect gate="G$1" pin="INT3" pad="P$18"/>
+<connect gate="G$1" pin="INT4" pad="P$11"/>
+<connect gate="G$1" pin="P0.1" pad="P$9"/>
+<connect gate="G$1" pin="P3.1" pad="P$12"/>
+<connect gate="G$1" pin="RST" pad="P$7"/>
+<connect gate="G$1" pin="T0/CLK1" pad="P$15"/>
+<connect gate="G$1" pin="T1/CLK0" pad="P$16"/>
+<connect gate="G$1" pin="VCC" pad="P$8"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="STC15L204AE" package="STC15F204AE2">
 <connects>
 <connect gate="G$1" pin="ADC0" pad="P$20"/>
 <connect gate="G$1" pin="ADC1" pad="P$19"/>
@@ -10778,13 +10845,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="U$1" library="OctoWatch" deviceset="LED_SEGMENT" device=""/>
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A3L-LOC" device=""/>
 <part name="J1" library="USB connector" library_urn="urn:adsk.eagle:library:19787754" deviceset="0475900001" device="" package3d_urn="urn:adsk.eagle:package:19610270/9"/>
-<part name="U$2" library="OctoWatch" deviceset="STC15F204AE" device=""/>
+<part name="U$2" library="OctoWatch" deviceset="STC15F204AE" device="STC15L204AE"/>
 <part name="R3" library="SparkFun-Resistors" deviceset="10KOHM" device="-0603-1/10W-1%" value="10k"/>
 <part name="IC1" library="TP4056" deviceset="TP4056" device=""/>
 <part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="122"/>
 <part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="102"/>
 <part name="R6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0402" package3d_urn="urn:adsk.eagle:package:23547/3" value="102"/>
-<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2" value="104"/>
+<part name="R7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="104"/>
 <part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uf"/>
 <part name="C5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10uf"/>
 <part name="BATT+" library="solpad" library_urn="urn:adsk.eagle:library:364" deviceset="LSP13" device="" package3d_urn="urn:adsk.eagle:package:26509/1"/>
@@ -11341,16 +11408,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </sheet>
 </sheets>
 <errors>
-<approved hash="102,1,-91.44,76.2,VCC2,VCC,,,,"/>
-<approved hash="102,1,-68.58,76.2,VCC1,VCC,,,,"/>
-<approved hash="102,1,-45.72,50.8,VCC,N$18,,,,"/>
-<approved hash="102,1,-55.88,93.98,VCC,N$25,,,,"/>
-<approved hash="201,1,27.94,38.1,GND,GND\, N$14,,,,"/>
-<approved hash="201,1,-55.88,93.98,VCC,VCC\, N$18\, N$25,,,,"/>
-<approved hash="201,1,-45.72,50.8,VCC,VCC\, N$18\, N$25,,,,"/>
-<approved hash="106,1,-50.8,50.8,N$18,,,,,"/>
-<approved hash="106,1,-45.72,50.8,N$18,,,,,"/>
-<approved hash="106,1,-7.62,81.28,N$21,,,,,"/>
 <approved hash="113,1,46.251,107.211,FRAME1,,,,,"/>
 </errors>
 </schematic>
