@@ -1,0 +1,25 @@
+ERA3AEB103V
+10 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film\
+
+CL21C220JBANNNC
+22pF ±5% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)
+
+CL21B104KCFNNNE
+0.1µF ±10% 100V Ceramic Capacitor X7R 0805 (2012 Metric)
+
+RC2512JK-073K9L
+RC Series 2512 1 W 3.9 kOhms 5% ±100ppm/°C SMT Thick Film Chip Resistor
+
+0805W8F400LT5E
+0.4 Ohm resistor
+
+CL10A106MA8NRNC
+CL10 Series 10 uF 25 V ±20 % Tolerance X5R SMT Multilayer Ceramic Capacitor
+
+19-217/BHC-ZL1M2RY/3T
+Blue LED Indication - Discrete 2.8V 0603 (1608 Metric)
+
+19-217/R6C-AL1M2VY/3T
+Red LED Indication - Discrete 1.95V 0603 (1608 Metric)
+
+
