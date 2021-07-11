@@ -7,14 +7,17 @@ CL21C220JBANNNC
 CL21B104KCFNNNE
 0.1µF ±10% 100V Ceramic Capacitor X7R 0805 (2012 Metric)
 
-RC2512JK-073K9L
-RC Series 2512 1 W 3.9 kOhms 5% ±100ppm/°C SMT Thick Film Chip Resistor
+AC1206FR-073K9L
+Res Thick Film 1206 3.9K Ohm 1% 0.25W(1/4W) ±100ppm/°C Pad SMD Automotive T/R
 
 0805W8F400LT5E
 0.4 Ohm resistor
 
-CL10A106MA8NRNC
-CL10 Series 10 uF 25 V ±20 % Tolerance X5R SMT Multilayer Ceramic Capacitor
+GRT188R61E106ME13D
+SMD Capacitor X5R(EIA) with Capacitance: 10uF Tol. 20%. Rated Voltage: 25Vdc
+
+ERJ-PB3B1001V
+1 kOhms ±0.1% 0.2W, 1/5W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film
 
 19-217/BHC-ZL1M2RY/3T
 Blue LED Indication - Discrete 2.8V 0603 (1608 Metric)
